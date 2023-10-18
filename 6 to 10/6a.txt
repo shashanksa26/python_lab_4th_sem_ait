@@ -1,0 +1,18 @@
+hello there this the sample document 
+for the queastion 6a 
+in the given pdf
+so here we are checking for the occurence of a word and
+printing the text from it till the n number of line which 
+is given by the user 
+to check till then.
++919900889979
++919900889987
++919900889924
+
+
+sample@gmail.com
+samplsse@gmail.com
+isample@gmail.com
+stample@gmail.com
+samplle@gmail.com
+sampple@gmail.com

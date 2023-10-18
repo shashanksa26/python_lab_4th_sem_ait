@@ -1,0 +1,18 @@
+[11:41:30] {b2.py:8} DEBUG - Start of program
+[11:41:30] {b2.py:10} DEBUG - Start of factorial(5%)
+[11:41:30] {b2.py:14} DEBUG - i is 1, total is 1
+[11:41:30] {b2.py:14} DEBUG - i is 2, total is 2
+[11:41:30] {b2.py:14} DEBUG - i is 3, total is 6
+[11:41:30] {b2.py:14} DEBUG - i is 4, total is 24
+[11:41:30] {b2.py:14} DEBUG - i is 5, total is 120
+[11:41:30] {b2.py:15} DEBUG - End of factorial(5%)
+[11:41:30] {b2.py:18} DEBUG - End of program
+[11:42:28] {b2.py:8} DEBUG - Start of program
+[11:42:28] {b2.py:10} DEBUG - Start of factorial(5)
+[11:42:28] {b2.py:14} DEBUG - i is 1, total is 1
+[11:42:28] {b2.py:14} DEBUG - i is 2, total is 2
+[11:42:28] {b2.py:14} DEBUG - i is 3, total is 6
+[11:42:28] {b2.py:14} DEBUG - i is 4, total is 24
+[11:42:28] {b2.py:14} DEBUG - i is 5, total is 120
+[11:42:28] {b2.py:15} DEBUG - End of factorial(5)
+[11:42:28] {b2.py:18} DEBUG - End of program
